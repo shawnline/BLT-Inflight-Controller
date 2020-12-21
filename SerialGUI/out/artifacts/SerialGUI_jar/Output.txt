@@ -1,0 +1,594 @@
+Value 1: -16713
+Value 2: -17224
+Value 3: -17153
+Value 4: -17332
+What's this?: uWu
+
+Value 1: 30049
+Value 2: 29534
+Value 3: 29612
+Value 4: 29441
+What's this?: uWu
+
+Value 1: -29228
+Value 2: -29743
+Value 3: -29667
+Value 4: -29839
+What's this?: u
+
+Value 1: -22972
+Value 2: -23483
+Value 3: -23408
+Value 4: -23585
+What's this?: uWu
+
+Value 1: -16713
+Value 2: -17224
+Value 3: -17153
+Value 4: -17332
+What's this?: uWu
+
+Value 1: 30049
+Value 2: 29534
+Value 3: 29612
+Value 4: 29441
+What's this?: uWu
+
+Value 1: -29228
+Value 2: -29743
+Value 3: -29667
+Value 4: -29839
+What's this?: u
+
+Value 1: 36
+Value 2: 59
+Value 3: 67
+Value 4: 74
+What's this?: uWu
+
+Value 1: 43
+Value 2: 70
+Value 3: 76
+Value 4: 85
+What's this?: uWu
+
+Value 1: 55
+Value 2: 75
+Value 3: 80
+Value 4: 97
+What's this?: uWu
+
+Value 1: 66
+Value 2: 88
+Value 3: 85
+Value 4: 104
+What's this?: uWu
+
+Value 1: 79
+Value 2: 101
+Value 3: 98
+Value 4: 111
+What's this?: uWu
+
+Value 1: 92
+Value 2: 109
+Value 3: 105
+Value 4: 120
+What's this?: uWu
+
+Value 1: 104
+Value 2: 123
+Value 3: 119
+Value 4: 128
+What's this?: uWu
+
+Value 1: 121
+Value 2: 139
+Value 3: 135
+Value 4: 139
+What's this?: uWu
+
+Value 1: 136
+Value 2: 150
+Value 3: 153
+Value 4: 149
+What's this?: uWu
+
+Value 1: 148
+Value 2: 162
+Value 3: 164
+Value 4: 163
+What's this?: uWu
+
+Value 1: 161
+Value 2: 176
+Value 3: 177
+Value 4: 175
+What's this?: uWu
+
+Value 1: 176
+Value 2: 191
+Value 3: 192
+Value 4: 192
+What's this?: uWu
+
+Value 1: 196
+Value 2: 209
+Value 3: 214
+Value 4: 208
+What's this?: uWu
+
+Value 1: 18
+Value 2: 225
+Value 3: 230
+Value 4: 228
+What's this?: uWu
+
+Value 1: 237
+Value 2: 249
+Value 3: 249
+Value 4: 248
+What's this?: uWu
+
+Value 1: 261
+Value 2: 273
+Value 3: 266
+Value 4: 273
+What's this?: uWu
+
+Value 1: 287
+Value 2: 292
+Value 3: 284
+Value 4: 291
+What's this?: uWu
+
+Value 1: 312
+Value 2: 318
+Value 3: 307
+Value 4: 317
+What's this?: uWu
+
+Value 1: 339
+Value 2: 345
+Value 3: 333
+Value 4: 341
+What's this?: uWu
+
+Value 1: 565
+Value 2: 580
+Value 3: 554
+Value 4: 572
+What's this?: uWu
+
+Value 1: 597
+Value 2: 612
+Value 3: 588
+Value 4: 603
+What's this?: uWu
+
+Value 1: 632
+Value 2: 648
+Value 3: 621
+Value 4: 638
+What's this?: uWu
+
+Value 1: 670
+Value 2: 686
+Value 3: 660
+Value 4: 677
+What's this?: uWu
+
+Value 1: 702
+Value 2: 719
+Value 3: 698
+Value 4: 710
+What's this?: uWu
+
+Value 1: 777
+Value 2: 792
+Value 3: 777
+Value 4: 791
+What's this?: uWu
+
+Value 1: 816
+Value 2: 828
+Value 3: 813
+Value 4: 826
+What's this?: uWu
+
+Value 1: 852
+Value 2: 871
+Value 3: 855
+Value 4: 864
+What's this?: uWu
+
+Value 1: 897
+Value 2: 914
+Value 3: 897
+Value 4: 907
+What's this?: uWu
+
+Value 1: 936
+Value 2: 954
+Value 3: 940
+Value 4: 949
+What's this?: uWu
+
+Value 1: 1029
+Value 2: 1043
+Value 3: 1030
+Value 4: 1031
+What's this?: uWu
+
+Value 1: 1077
+Value 2: 1089
+Value 3: 1072
+Value 4: 1078
+What's this?: uWu
+
+Value 1: 1119
+Value 2: 1133
+Value 3: 1116
+Value 4: 1128
+What's this?: uWu
+
+Value 1: 1162
+Value 2: 1177
+Value 3: 1165
+Value 4: 1173
+What's this?: uWu
+
+Value 1: 1265
+Value 2: 1273
+Value 3: 1263
+Value 4: 1275
+What's this?: uWu
+
+Value 1: 1319
+Value 2: 1319
+Value 3: 1316
+Value 4: 1327
+What's this?: uWu
+
+Value 1: 1370
+Value 2: 1367
+Value 3: 1371
+Value 4: 1374
+What's this?: uWu
+
+Value 1: 1420
+Value 2: 1415
+Value 3: 1420
+Value 4: 1426
+What's this?: uWu
+
+Value 1: 1524
+Value 2: 1524
+Value 3: 1530
+Value 4: 1529
+What's this?: uWu
+
+Value 1: 1582
+Value 2: 1580
+Value 3: 1587
+Value 4: 1583
+What's this?: uWu
+
+Value 1: 1637
+Value 2: 1639
+Value 3: 1647
+Value 4: 1637
+What's this?: uWu
+
+Value 1: 1696
+Value 2: 1692
+Value 3: 1707
+Value 4: 1695
+What's this?: uWu
+
+Value 1: 1755
+Value 2: 1747
+Value 3: 1764
+Value 4: 1753
+What's this?: u
+
+Value 1: 1818
+Value 2: 1810
+Value 3: 1827
+Value 4: 1811
+What's this?: uWu
+
+Value 1: 1874
+Value 2: 1873
+Value 3: 1890
+Value 4: 1867
+What's this?: uWu
+
+Value 1: 1935
+Value 2: 1932
+Value 3: 1952
+Value 4: 1924
+What's this?: uWu
+
+Value 1: 1996
+Value 2: 1991
+Value 3: 2014
+Value 4: 1982
+What's this?: uWu
+
+Value 1: 2058
+Value 2: 2057
+Value 3: 2077
+Value 4: 2049
+What's this?: uWu
+
+Value 1: 2123
+Value 2: 2121
+Value 3: 2145
+Value 4: 2115
+What's this?: uWu
+
+Value 1: 2185
+Value 2: 2182
+Value 3: 2207
+Value 4: 2184
+What's this?: uWu
+
+Value 1: 2252
+Value 2: 2245
+Value 3: 2272
+Value 4: 2249
+What's this?: uWu
+
+Value 1: 2315
+Value 2: 2309
+Value 3: 2340
+Value 4: 2316
+What's this?: uWu
+
+Value 1: 2379
+Value 2: 2379
+Value 3: 2410
+Value 4: 2385
+What's this?: uWu
+
+Value 1: 50
+Value 2: 2449
+Value 3: 2475
+Value 4: 2450
+What's this?: uWu
+
+Value 1: 2516
+Value 2: 2520
+Value 3: 2544
+Value 4: 2517
+What's this?: uWu
+
+Value 1: 2588
+Value 2: 2591
+Value 3: 2613
+Value 4: 2587
+What's this?: uWu
+
+Value 1: 2663
+Value 2: 2663
+Value 3: 2682
+Value 4: 2656
+What's this?: uWu
+
+Value 1: 2738
+Value 2: 2735
+Value 3: 2754
+Value 4: 2728
+What's this?: uWu
+
+Value 1: 2890
+Value 2: 2887
+Value 3: 2908
+Value 4: 2881
+What's this?: uWu
+
+Value 1: 2969
+Value 2: 2967
+Value 3: 2984
+Value 4: 2959
+What's this?: uWu
+
+Value 1: 3047
+Value 2: 3045
+Value 3: 3061
+Value 4: 3032
+What's this?: uWu
+
+Value 1: 3126
+Value 2: 3127
+Value 3: 3138
+Value 4: 3110
+What's this?: uWu
+
+Value 1: 3282
+Value 2: 3284
+Value 3: 3300
+Value 4: 3261
+What's this?: uWu
+
+Value 1: 3367
+Value 2: 3365
+Value 3: 3384
+Value 4: 3346
+What's this?: uWu
+
+Value 1: 3451
+Value 2: 3446
+Value 3: 3464
+Value 4: 3424
+What's this?: uWu
+
+Value 1: 3537
+Value 2: 3527
+Value 3: 3549
+Value 4: 3509
+What's this?: uWu
+
+Value 1: 3705
+Value 2: 3694
+Value 3: 3717
+Value 4: 3673
+What's this?: uWu
+
+Value 1: 3793
+Value 2: 3776
+Value 3: 3801
+Value 4: 3763
+What's this?: uWu
+
+Value 1: 3880
+Value 2: 3860
+Value 3: 3888
+Value 4: 3851
+What's this?: uWu
+
+Value 1: 3964
+Value 2: 3949
+Value 3: 3978
+Value 4: 3938
+What's this?: uWu
+
+Value 1: 4136
+Value 2: 4129
+Value 3: 4153
+Value 4: 4115
+What's this?: uWu
+
+Value 1: 4225
+Value 2: 4220
+Value 3: 4240
+Value 4: 4205
+What's this?: uWu
+
+Value 1: 4320
+Value 2: 4310
+Value 3: 4334
+Value 4: 4297
+What's this?: uWu
+
+Value 1: 4410
+Value 2: 4399
+Value 3: 4425
+Value 4: 4388
+What's this?: uWu
+
+Value 1: 4602
+Value 2: 4582
+Value 3: 4606
+Value 4: 4580
+What's this?: uWu
+
+Value 1: 4699
+Value 2: 4680
+Value 3: 4705
+Value 4: 4673
+What's this?: uWu
+
+Value 1: 4799
+Value 2: 4776
+Value 3: 4801
+Value 4: 4771
+What's this?: uWu
+
+Value 1: 4899
+Value 2: 4870
+Value 3: 4895
+Value 4: 4865
+What's this?: uWu
+
+Value 1: 5090
+Value 2: 5064
+Value 3: 5093
+Value 4: 5069
+What's this?: uWu
+
+Value 1: 5187
+Value 2: 5165
+Value 3: 5196
+Value 4: 5173
+What's this?: uWu
+
+Value 1: 5288
+Value 2: 5269
+Value 3: 5301
+Value 4: 5275
+What's this?: uWu
+
+Value 1: 5392
+Value 2: 5375
+Value 3: 5403
+Value 4: 5376
+What's this?: uWu
+
+Value 1: 5497
+Value 2: 5477
+Value 3: 5504
+Value 4: 5480
+What's this?: uWu
+
+Value 1: 5603
+Value 2: 5582
+Value 3: 5613
+Value 4: 5588
+What's this?: uWu
+
+Value 1: 5706
+Value 2: 5685
+Value 3: 5723
+Value 4: 5698
+What's this?: uWu
+
+Value 1: 5809
+Value 2: 5789
+Value 3: 5827
+Value 4: 5808
+What's this?: uWu
+
+Value 1: 5919
+Value 2: 5897
+Value 3: 5936
+Value 4: 5919
+What's this?: uWu
+
+Value 1: 6027
+Value 2: 6007
+Value 3: 6044
+Value 4: 6026
+What's this?: uWu
+
+Value 1: 139
+Value 2: 6120
+Value 3: 6158
+Value 4: 6132
+What's this?: uWu
+
+Value 1: 6249
+Value 2: 6235
+Value 3: 6268
+Value 4: 6245
+What's this?: uWu
+
+Value 1: 6363
+Value 2: 6351
+Value 3: 6384
+Value 4: 6359
+What's this?: uWu
+
+Value 1: 6480
+Value 2: 6465
+Value 3: 6496
+Value 4: 6471
+What's this?: uWu
+
+Value 1: 6598
+Value 2: 6578
+Value 3: 6610
+Value 4: 6589
+What's this?: uWu
+
